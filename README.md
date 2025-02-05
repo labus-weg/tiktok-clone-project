@@ -4,7 +4,7 @@ A minimal TikTok clone built with Next.js, Firebase, and Tailwind CSS. This proj
 
 ## 🎥 Demo & Features
 
-Live Demo: [Add your Vercel deployment URL]
+Live Demo: Upcoming!!!
 
 **Key Features:**
 - 🎯 One-click Google Authentication
@@ -18,7 +18,7 @@ Live Demo: [Add your Vercel deployment URL]
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/labus-weg/tiktok-clone-project.git]
 cd tiktok-clone
 ```
 
